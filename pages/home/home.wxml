@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello world!</text>
+<button size="mini">提交</button>
+<image src="http://img2.imgtn.bdimg.com/it/u=3749323882,846155126&fm=26&gp=0.jpg"></image>
